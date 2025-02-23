@@ -1,1 +1,1 @@
-This directory contains C - Variables, if, else, while. 
+This directory contains projects for C - Variables, if, else, while. 
