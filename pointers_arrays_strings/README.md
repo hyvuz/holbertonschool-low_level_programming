@@ -1,0 +1,1 @@
+All tasks in this directory will be related to pointers, arrays and strings in C 
